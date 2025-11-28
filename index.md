@@ -37,7 +37,7 @@ By merging *wellbeing science* with *delightful interaction design*, this soluti
 **Keywords:**
 Affective Computing, Human–Computer Interaction (HCI), Ambient Sensing, Emotion Recognition, Neurodivergent Support Systems, Behavioral Analytics, Digital Therapeutics, Soft Gamification, Context-Aware Interfaces, Classroom Engagement Metrics, Micro-Intervention Design, User-Centered Design, Educational Technology, Adaptive Feedback Systems, Real-Time Mood Aggregation
 
-## **1.0 Introduction**
+## **Introduction**
 
 In contemporary educational environments, student wellbeing has become a cornerstone of effective learning, yet it often remains *under-addressed* or *inadequately supported*. Traditional mental health initiatives in schools and universities are frequently reactive, one-size-fits-all, and may inadvertently stigmatize neurodivergent learners. As academic pressures rise, the need for proactive, inclusive, and emotionally intelligent interventions has never been more critical.  
 
@@ -71,3 +71,4 @@ Ultimately, this project situates itself at the intersection of *educational tec
 <div class="link-container">
   <a href="problem-statement.html" class="right-link">Next : Problem Statement</a>
 </div>
+
