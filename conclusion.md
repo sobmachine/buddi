@@ -86,12 +86,6 @@ Always respecting consent, safety, and autonomy.
 
 ---
 
-## *Source Notes*
-
-No external sources were used for this. All of the matter is written from base.
-
----
-
 # *Conclusion*
 
 Buddi emerges not as another digital tool layered onto already overloaded academic spaces, but as a *gentle companion system* woven directly into the emotional fabric of students’ daily lives. Its design philosophy centers on a simple truth: *wellbeing is not a crisis-response mechanism — it is a continuous, living process that blossoms through small, compassionate touchpoints.* Through its blended ecosystem of emotional sharing, micro-interventions, adaptive insights, and soft gamification, Buddi supports students in ways that feel natural, non-intrusive, and deeply human.
@@ -108,4 +102,8 @@ Buddi completes the loop between feeling, reflecting, expressing, and healing.
 Quietly. Softly. Warmly.  
 And in doing so, it sketches a future where wellbeing is not an afterthought, but a constant companion — steady, kind, and always within reach.
 
+# *Sources*
 
+No external sources were used for this. All of the matter is written from base.
+
+---
