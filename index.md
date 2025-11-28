@@ -9,7 +9,7 @@ description: "An integrated digital ecosystem designed to proactively support me
 
 **Authors:** Harshit Bery et al.  
 **Date:** November 2025
-xyz
+
 ---
 
 ## **Abstract**
@@ -71,5 +71,6 @@ Ultimately, this project situates itself at the intersection of *educational tec
 <div class="link-container">
   <a href="problem-statement.html" class="right-link">Next : Problem Statement</a>
 </div>
+
 
 
