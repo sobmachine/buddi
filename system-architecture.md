@@ -1,3 +1,4 @@
+---
 layout: default
 title: System Architecture
 nav_order: 3
@@ -133,3 +134,4 @@ Each layer communicates through *API endpoints and event-driven pipelines*, ensu
 <div class="link-container">
   <a href="layers.html" class="right-link">Next : Layers</a>
 </div>
+
