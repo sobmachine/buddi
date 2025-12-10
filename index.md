@@ -1,3 +1,4 @@
+---
 layout: default
 title: Home
 nav_order: 1
@@ -74,3 +75,4 @@ Ultimately, this project situates itself at the intersection of *educational tec
 <div class="link-container">
   <a href="problem-statement.html" class="right-link">Next : Problem Statement</a>
 </div>
+
