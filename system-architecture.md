@@ -1,4 +1,3 @@
----
 layout: default
 title: System Architecture
 nav_order: 3
@@ -116,17 +115,16 @@ Each layer communicates through *API endpoints and event-driven pipelines*, ensu
 <style>
   .link-container {
     display: flex;
-    justify-content: flex-end; /* aligns content to the right */
-    padding: 20px;             /* optional spacing */
-    background-color: #333;    /* dark background */
+    justify-content: flex-end;
+    padding: 20px;
+    background-color: #333;
   }
 
   .right-link {
-    color: white;               /* makes the link white */
-    text-decoration: none;      /* removes underline */
+    color: white;
+    text-decoration: none;
   }
 
-  /* optional hover effect */
   .right-link:hover {
     text-decoration: underline;
   }
